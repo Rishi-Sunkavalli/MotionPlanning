@@ -1,0 +1,8 @@
+numpy
+matplotlib
+imageio
+networkx
+scipy
+unified-planning==0.4.2.362.dev1
+unified_planning[fast-downward]==0.4.2.362.dev1
+argparse
